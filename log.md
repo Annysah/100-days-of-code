@@ -75,7 +75,7 @@ I could not code today but did alot of reading articles and watching YouTube tut
 Day 09/100: April 26, 2020
 Practiced a responsive navigation menu using HTML and CSS.
 
-I had a time doing the screen recording on my PC 😭. The video didn't come out the way I wanted!
+I had a hard time doing the screen recording on my PC 😭. The video didn't come out the way I wanted!
 https://t.co/zJvnLBXlQb
 
 
