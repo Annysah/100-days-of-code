@@ -1,5 +1,78 @@
 # 100 Days Of Code - Log
 
+Day 26 - 28 / 100: May 13-15, 2020
+- Studied about scoping and scoping chain, events and events handling in my JS course @udemy.
+
+- Built a responsive price table using HTML and CSS.
+ https://t.co/WaF17CtIbq
+
+- Created a UI product card with HTML and CSS as well. Here I learnt  how to use the clip path element.
+ https://t.co/G7EvkVQIng
+
+
+
+Day 25 /100: May 12, 2020
+
+Today, I studied introduction to the DOM & DOM manipulation section of my JavaScript course @udemy. 
+
+I'm so excited 😊 about my progress over the past few months of learning and relearning JS.
+
+
+
+Day 23 & 24/100: May 10 & 11, 2020
+Worked on the coding challenges in my JavaScript course @udemy.
+
+https://t.co/wqGoEYvj8h
+
+
+
+Day 22/100: May 9, 2020
+Activity 1: Learnt about Hoisting, Parsers and Engines in JavaScript  @udemy.
+
+Activity 2: Created a responsive contact section of a web page.
+
+https://t.co/JGyQj4w03Y
+
+
+
+Day 21/100: May 8, 2020
+
+Today, I learnt alot more about web accessibility.
+
+
+
+Day 20/100: May 7, 2020
+
+- Continued my udemy course on JS
+
+- Just to become better at CSS, I keep playing around with little projects. 
+
+So today I decided to work on " meet the team" section of a web page. 
+ 
+https://t.co/SCBvutzpAv
+
+Oh and it's responsive too!
+https://t.co/wuSo0Kog4k
+
+
+
+Day 19/100: May 6, 2020
+
+- Continued my JavaScript course @udemy.
+
+- I also played a little around HTML and CSS. 
+https://t.co/XJg8Ek0Xbl
+
+
+
+Day 18/100: May 5, 2020
+
+I started this very interesting Udemy course(The complete JavaScript course 2020) by @jonasschmedtman which was gifted to me from an awesome friend.
+
+I owe him this one 😊...
+
+
+
 Day 17/100: May 4, 2020
 A code free day for me; it was more of reading than coding today.
 
