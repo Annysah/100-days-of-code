@@ -27,6 +27,7 @@ https://t.co/wqGoEYvj8h
 
 
 Day 22/100: May 9, 2020
+
 Activity 1: Learnt about Hoisting, Parsers and Engines in JavaScript  @udemy.
 
 Activity 2: Created a responsive contact section of a web page.
